@@ -1,5 +1,5 @@
 #SpotBugs User Preferences
-#Sun Nov 22 17:39:46 CET 2020
+#Mon Nov 29 09:21:37 CET 2021
 detectorExplicitSerialization=ExplicitSerialization|true
 detectorMultithreadedInstanceAccess=MultithreadedInstanceAccess|true
 detectorConfusionBetweenInheritedAndOuterMethod=ConfusionBetweenInheritedAndOuterMethod|true
@@ -77,6 +77,7 @@ detectorFindUncalledPrivateMethods=FindUncalledPrivateMethods|true
 detectorNumberConstructor=NumberConstructor|true
 detectorDontAssertInstanceofInTests=DontAssertInstanceofInTests|true
 detectorFindFinalizeInvocations=FindFinalizeInvocations|true
+detectorFindBadEndOfStreamCheck=FindBadEndOfStreamCheck|true
 detectorFindNullDerefsInvolvingNonShortCircuitEvaluation=FindNullDerefsInvolvingNonShortCircuitEvaluation|true
 detectorDontIgnoreResultOfPutIfAbsent=DontIgnoreResultOfPutIfAbsent|true
 detectorFindUnconditionalWait=FindUnconditionalWait|true
